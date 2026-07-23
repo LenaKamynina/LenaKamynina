@@ -1,6 +1,6 @@
 # Hi, I'm Lena Kamynina 👋 🇺🇦
 
-Growth Marketing professional with 10+ years of experience in B2B SaaS, focused on product marketing and go-to-market strategy. Based in Stockholm, Sweden, currently working with **Fluix**.
+Growth Marketing professional with 10+ years of experience in B2B SaaS, focused on product marketing and go-to-market strategy. Based in Stockholm, Sweden.
 
 ## What I do
 
@@ -13,7 +13,6 @@ I work at the intersection of product and marketing — building growth strategi
 
 ## Background
 
-- 🎓 Odessa State Academy of Civil Engineering and Architecture
 - 📜 Certifications: Account-Based Go-to-Market (Demandbase), AI Fluency Framework & Foundations (Anthropic), Product-Led Certification (Mind the Product), Unit Economics (Projector Institute), Product Management Bootcamp (Asta Academy), LinkedIn Marketing Strategy
 - 🌍 Languages: English (professional), Ukrainian (native)
 
