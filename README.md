@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Lena Kamynina 👋 🇺🇦
 
-<!--
-**LenaKamynina/LenaKamynina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Growth Marketing professional with 10+ years of experience in B2B SaaS, focused on product marketing and go-to-market strategy. Based in Stockholm, Sweden, currently working with **Fluix**.
 
-Here are some ideas to get you started:
+## What I do
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I work at the intersection of product and marketing — building growth strategies, shaping go-to-market motions, and translating product value into messaging that drives adoption for B2B SaaS companies.
+
+- 🌱 Growth marketing & go-to-market (GTM) strategy
+- 📦 Product marketing for B2B SaaS
+- 🎯 Account-based marketing (ABM)
+- 🤖 Applying AI to marketing workflows
+
+## Background
+
+- 🎓 Odessa State Academy of Civil Engineering and Architecture
+- 📜 Certifications: Account-Based Go-to-Market (Demandbase), AI Fluency Framework & Foundations (Anthropic), Product-Led Certification (Mind the Product), Unit Economics (Projector Institute), Product Management Bootcamp (Asta Academy), LinkedIn Marketing Strategy
+- 🌍 Languages: English (professional), Ukrainian (native)
+
+## Connect with me
+
+- LinkedIn: [linkedin.com/in/lena-kamynina](https://www.linkedin.com/in/lena-kamynina/)
