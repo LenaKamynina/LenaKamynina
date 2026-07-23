@@ -9,12 +9,11 @@ I work at the intersection of product and marketing — building growth strategi
 - 🌱 Growth marketing & go-to-market (GTM) strategy
 - 📦 Product marketing for B2B SaaS
 - 🎯 Account-based marketing (ABM)
-- 🤖 Applying AI to marketing workflows
+- 🤖 Building AI-powered marketing workflows
 
 ## Background
 
 - 📜 Certifications: Account-Based Go-to-Market (Demandbase), AI Fluency Framework & Foundations (Anthropic), Product-Led Certification (Mind the Product), Unit Economics (Projector Institute), Product Management Bootcamp (Asta Academy), LinkedIn Marketing Strategy
-- 🌍 Languages: English (professional), Ukrainian (native)
 
 ## Connect with me
 
