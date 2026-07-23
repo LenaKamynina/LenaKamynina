@@ -1,4 +1,4 @@
-# Hi, I'm Lena Kamynina 👋 🇺🇦
+# Hi, I'm Lena 👋
 
 Growth Marketing professional with 10+ years of experience in B2B SaaS, focused on product marketing and go-to-market strategy. Based in Stockholm, Sweden.
 
